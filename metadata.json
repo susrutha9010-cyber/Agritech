@@ -1,0 +1,8 @@
+{
+  "name": "Remix HarvestBridge — Direct-to-Consumer Produce Bridge",
+  "description": "Break the middlemen trap in agriculture. Connect local organic farmers directly with conscious consumers for fairer grower prices, zero warehouse delays, and fresher produce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
